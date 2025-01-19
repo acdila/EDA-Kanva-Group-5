@@ -2,6 +2,7 @@
 📊 Deskripsi: Repository ini berisi hasil dari aktifitas eksplorasi data (EDA) menggunakan dataset Airbnb Prices dari 10 kota di Eropa
 
 📈 Insight Utama : 
+
 Insight 1: Distribusi harga berdasarkan tipe kamar
 Kamar dengan tipe Entire home/apt memiliki rentang harga yang jauh lebih tinggi dibandingkan jenis lainnya, dengan beberapa properti berada di kisaran harga yang sangat tinggi. Sementara itu, Private room dan Shared room memiliki rentang harga lebih terbatas dengan rata-rata yang lebih rendah.
 
