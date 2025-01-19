@@ -12,7 +12,11 @@ Dari perbandingan harga rata-rata weeekday dan weekend dalam 10 kota, ditemukan 
 🚀 Nama Anggota :
 
 Adila
+
 Alexander Panggabean
+
 Kevin William Markus Simbolon
+
 Novisna Lintang Negari
+
 Veraldo Efraim
